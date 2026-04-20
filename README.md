@@ -1,6 +1,6 @@
 # Hi, I'm Perumahanty Shreya  
 Chennai, India
-Machine Learning | NLP | Time Series | Optimization  
+-Machine Learning | NLP | Time Series | Optimization  
 
 ##
 🚧 Currently enhancing repositories with documentation, visualizations, and deployment demos.

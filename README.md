@@ -1,7 +1,7 @@
 # Hi, I'm Perumahanty Shreya  
 Chennai, India  
 
-# 🚧 Currently enhancing repositories with documentation, visualizations, and deployment demos.
+🚧 Currently enhancing repositories with documentation, visualizations, and deployment demos.
 ---
 
 ## About Me
